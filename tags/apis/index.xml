@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>APIs on Jeremy Stewart</title>
+    <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/apis/</link>
+    <description>Recent content in APIs on Jeremy Stewart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jlstewart12.github.io/Jeremy_Portfolio/tags/apis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Latitudinal Weather Analysis</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 10 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-5/</guid>
+      <description>What&amp;rsquo;s the weather like as we approach the equator? Part I - Weather A Python script was developed to visualize the weather of 500+ cities across the world of varying distance from the equator. Data was pulled from https://openweathermap.org/api.
+Initial scatter plots showcase the following relationships:
+  Temperature (F) vs. Latitude     This plot shows cities with the highest maximum temperatures falling between -40 and 20 degrees of latitude and then temperatures falling as the cities lie further away from the equator.</description>
+    </item>
+    
+  </channel>
+</rss>

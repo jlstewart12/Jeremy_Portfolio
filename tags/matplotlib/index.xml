@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matplotlib on Jeremy Stewart</title>
+    <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/matplotlib/</link>
+    <description>Recent content in matplotlib on Jeremy Stewart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jlstewart12.github.io/Jeremy_Portfolio/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate Analysis and Exploration</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 10 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-1/</guid>
+      <description>If you were planning a trip to Hawaii, wouldn&amp;rsquo;t you want to make sure the weather was right for the time you&amp;rsquo;d be there? Be your own weatherman in this analysis of the state&amp;rsquo;s historical climate database.
+Precipitation Analysis Selecting only the data and prcp values, I designed a query to retrieve precipitation data from August 23, 2016 to July 10, 2017 and then plotted the results.
+  Station Analysis Designed a query to calculate the total number of stations and to determine which ones were the most active.</description>
+    </item>
+    
+  </channel>
+</rss>

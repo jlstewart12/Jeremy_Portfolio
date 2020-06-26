@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Jeremy Stewart</title>
+    <link>https://jlstewart12.github.io/Jeremy_Portfolio/</link>
+    <description>Recent content in Data Analytics Portfolio on Jeremy Stewart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2020 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://jlstewart12.github.io/Jeremy_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ETL Pros</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-4/</link>
+      <pubDate>Tue, 25 Feb 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-4/</guid>
+      <description>ETL-Pros Basketball player stat analysis focused on utilizing the extract-transform-load process.
+College Report  Sources &amp;amp; Files  Source of Data: https://www.sports-reference.com/cbb/play-index/psl_finder.cgi Files Considered: ncaaplayerstats.csv, ncaa_career_avgs.csv, ncaa_career_totals.csv, ncaa_stats_per_season.csv, etl_pros.ipnyb  NCAA Player Stats Extraction  Utilized &amp;ldquo;Sports-Reference.com&amp;rdquo; Player Season Finder to query site&amp;rsquo;s database Searched for single season data from &amp;ldquo;any&amp;rdquo; to &amp;ldquo;2019-20&amp;rdquo; seasons Query results sorted by Points (scored) Used site&amp;rsquo;s share function to extract tables in csv format Stacked 30 pages of player data into single csv file containing 3000 rows and 27 columns  Transformation  Renamed columns appropriately Observed row counts and series data types Removed unneeded columns Dropped Rows with null values to avoid skewing data Used as a clean foundation for following tables to be loaded  NCAA Player Career Averages Extraction  Derived from grouping original csv by Player series Created new dataframe to hold mean of each statistical category over each player&amp;rsquo;s college career  Transformation  Determined beginning and end of each player&amp;rsquo;s career by finding min and max season years Dropped series with irrelevant means Merged Min/Max dataframes with Mean dataframe Final merge with &amp;ldquo;Player_Lookup.</description>
+    </item>
+    
+    <item>
+      <title>Climate Analysis and Exploration</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 10 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-1/</guid>
+      <description>If you were planning a trip to Hawaii, wouldn&amp;rsquo;t you want to make sure the weather was right for the time you&amp;rsquo;d be there? Be your own weatherman in this analysis of the state&amp;rsquo;s historical climate database.
+Precipitation Analysis Selecting only the data and prcp values, I designed a query to retrieve precipitation data from August 23, 2016 to July 10, 2017 and then plotted the results.
+  Station Analysis Designed a query to calculate the total number of stations and to determine which ones were the most active.</description>
+    </item>
+    
+    <item>
+      <title>Latitudinal Weather Analysis</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 10 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-5/</guid>
+      <description>What&amp;rsquo;s the weather like as we approach the equator? Part I - Weather A Python script was developed to visualize the weather of 500+ cities across the world of varying distance from the equator. Data was pulled from https://openweathermap.org/api.
+Initial scatter plots showcase the following relationships:
+  Temperature (F) vs. Latitude     This plot shows cities with the highest maximum temperatures falling between -40 and 20 degrees of latitude and then temperatures falling as the cities lie further away from the equator.</description>
+    </item>
+    
+    <item>
+      <title>Employee SQL Database Analysis</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-2/</guid>
+      <description>Data Modeling ERD development based on CSV data   Data Engineering   Table schema were created based on the six CSV files. Data types, primary keys, foreign keys, and other constraints were specified.
+  Imported each CSV file into the corresponding SQL table.
+  Data Analysis Employee Details   Employees who were hired in 1986.   Department Manager Details   Employee Departments   Employees whose first name is &amp;ldquo;Hercules&amp;rdquo; and last names begin with &amp;ldquo;B.</description>
+    </item>
+    
+    <item>
+      <title>Pandas Gamer Analysis</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-3/</guid>
+      <description>This project showcases a customer analysis report of various metrics for a fantasy game called Heroes of Pymoli.
+Player Count  Total Number of Players    Purchasing Analysis (Total)  Number of Unique Items Average Purchase Price Total Number of Purchases Total Revenue    Gender Demographics  Percentage and Count of Male Players Percentage and Count of Female Players Percentage and Count of Other / Non-Disclosed    Purchasing Analysis (Gender)  The below each broken by gender  Purchase Count Average Purchase Price Total Purchase Value Average Purchase Total per Person by Gender      Age Demographics  The below each broken into bins of 4 years (i.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/contact/</guid>
+      <description>See an extension of my work on these platforms:
+   Platform URL     LinkedIn: https://www.linkedin.com/in/jeremy-stewart-11512015b/   GitHub: https://github.com/jlstewart12   Tableau: https://public.tableau.com/profile/jeremy3907#!/    Reach me at: jlstewart12@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>

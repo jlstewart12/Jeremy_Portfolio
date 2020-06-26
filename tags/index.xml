@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jeremy Stewart</title>
+    <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/</link>
+    <description>Recent content in Tags on Jeremy Stewart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2020 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://jlstewart12.github.io/Jeremy_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ETL</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/etl/</link>
+      <pubDate>Tue, 25 Feb 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/tags/etl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APIs</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/apis/</link>
+      <pubDate>Mon, 10 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/tags/apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matplotlib</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/matplotlib/</link>
+      <pubDate>Mon, 10 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/sql/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/pandas/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

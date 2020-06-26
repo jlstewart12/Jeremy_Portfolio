@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pandas on Jeremy Stewart</title>
+    <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/pandas/</link>
+    <description>Recent content in Pandas on Jeremy Stewart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jlstewart12.github.io/Jeremy_Portfolio/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pandas Gamer Analysis</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-3/</guid>
+      <description>This project showcases a customer analysis report of various metrics for a fantasy game called Heroes of Pymoli.
+Player Count  Total Number of Players    Purchasing Analysis (Total)  Number of Unique Items Average Purchase Price Total Number of Purchases Total Revenue    Gender Demographics  Percentage and Count of Male Players Percentage and Count of Female Players Percentage and Count of Other / Non-Disclosed    Purchasing Analysis (Gender)  The below each broken by gender  Purchase Count Average Purchase Price Total Purchase Value Average Purchase Total per Person by Gender      Age Demographics  The below each broken into bins of 4 years (i.</description>
+    </item>
+    
+  </channel>
+</rss>

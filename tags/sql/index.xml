@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Jeremy Stewart</title>
+    <link>https://jlstewart12.github.io/Jeremy_Portfolio/tags/sql/</link>
+    <description>Recent content in SQL on Jeremy Stewart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://jlstewart12.github.io/Jeremy_Portfolio/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Employee SQL Database Analysis</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-2/</guid>
+      <description>Data Modeling ERD development based on CSV data   Data Engineering   Table schema were created based on the six CSV files. Data types, primary keys, foreign keys, and other constraints were specified.
+  Imported each CSV file into the corresponding SQL table.
+  Data Analysis Employee Details   Employees who were hired in 1986.   Department Manager Details   Employee Departments   Employees whose first name is &amp;ldquo;Hercules&amp;rdquo; and last names begin with &amp;ldquo;B.</description>
+    </item>
+    
+  </channel>
+</rss>
