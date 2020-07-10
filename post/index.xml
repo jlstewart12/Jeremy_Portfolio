@@ -73,5 +73,14 @@ Player Count  Total Number of Players    Purchasing Analysis (Total)  Number of 
       <description>Aggregated data found in the Citi Bike Trip History Logs and visualized some unexpected phenomena using Tableau.</description>
     </item>
 
+    <item>
+      <title>Airbnb Analysis</title>
+      <link>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-7/</link>
+      <pubDate>Sat, 02 Jan 2020 00:00:00 +0000</pubDate>
+
+      <guid>https://jlstewart12.github.io/Jeremy_Portfolio/post/project-7/</guid>
+      <description>Explored Airbnb's historical data to see what phenomena would surface and what future earnings hosts could anticipate.</description>
+    </item>
+
   </channel>
 </rss>
